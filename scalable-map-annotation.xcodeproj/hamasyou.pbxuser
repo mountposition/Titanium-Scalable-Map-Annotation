@@ -1,0 +1,338 @@
+// !$*UTF8*$!
+{
+	0535ED46127835D700027A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05E0562D1250AAB3004954BA /* JpCoMountpositionMapMapView.h */;
+		name = "JpCoMountpositionMapMapView.h: 13";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	0535ED47127835D700027A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* JpCoMountpositionMapModule.m */;
+		name = "JpCoMountpositionMapModule.m: 7";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 266;
+	};
+	0535ED48127835D700027A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05E056361250AB3B004954BA /* JpCoMountpositionMapMapViewProxy.m */;
+		name = "JpCoMountpositionMapMapViewProxy.m: 13";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	0535ED49127835D700027A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05E0562E1250AAB3004954BA /* JpCoMountpositionMapMapView.m */;
+		name = "JpCoMountpositionMapMapView.m: 28";
+		rLen = 0;
+		rLoc = 882;
+		rType = 0;
+		vrLen = 1330;
+		vrLoc = 0;
+	};
+	0535ED4A127835D700027A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05E0562E1250AAB3004954BA /* JpCoMountpositionMapMapView.m */;
+		name = "JpCoMountpositionMapMapView.m: 16";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 1330;
+		vrLoc = 0;
+	};
+	05E056251250A94F004954BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	05E056261250A94F004954BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	05E0562D1250AAB3004954BA /* JpCoMountpositionMapMapView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 299}";
+		};
+	};
+	05E0562E1250AAB3004954BA /* JpCoMountpositionMapMapView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 1274}";
+			sepNavWindowFrame = "{{19, 0}, {1317, 1028}}";
+		};
+	};
+	05E056351250AB3B004954BA /* JpCoMountpositionMapMapViewProxy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 317}";
+		};
+	};
+	05E056361250AB3B004954BA /* JpCoMountpositionMapMapViewProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{44, 0}";
+			sepNavVisRange = "{0, 306}";
+			sepNavWindowFrame = "{{19, 0}, {1317, 1028}}";
+		};
+	};
+	05E05685125180B6004954BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF71134B3F500162E58 /* JpCoMountpositionMapModule.h */;
+		name = "JpCoMountpositionMapModule.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	05E05687125180B6004954BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05E056351250AB3B004954BA /* JpCoMountpositionMapMapViewProxy.h */;
+		name = "JpCoMountpositionMapMapViewProxy.h: 11";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = D2AAC07D0554694100DB518D /* scalable-map-annotation */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* scalable-map-annotation */,
+		);
+		codeSenseManager = 05E056261250A94F004954BA /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					381,
+					20,
+					281,
+					281,
+					210,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					853,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					931,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1043,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1057,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					983,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1019,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1003,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309927098;
+			PBXWorkspaceStateSaveDate = 309927098;
+		};
+		perUserProjectItems = {
+			0535ED46127835D700027A74 = 0535ED46127835D700027A74 /* PBXTextBookmark */;
+			0535ED47127835D700027A74 = 0535ED47127835D700027A74 /* PBXTextBookmark */;
+			0535ED48127835D700027A74 = 0535ED48127835D700027A74 /* PBXTextBookmark */;
+			0535ED49127835D700027A74 = 0535ED49127835D700027A74 /* PBXTextBookmark */;
+			0535ED4A127835D700027A74 = 0535ED4A127835D700027A74 /* PBXTextBookmark */;
+			05E05685125180B6004954BA = 05E05685125180B6004954BA /* PBXTextBookmark */;
+			05E05687125180B6004954BA = 05E05687125180B6004954BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 05E056251250A94F004954BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	24416B8111C4CA220047AFDD /* Build & Test */ = {
+		activeExec = 0;
+	};
+	24DD6CF71134B3F500162E58 /* JpCoMountpositionMapModule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	24DD6CF81134B3F500162E58 /* JpCoMountpositionMapModule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 2140}}";
+			sepNavSelRange = "{0, 182}";
+			sepNavVisRange = "{0, 703}";
+		};
+	};
+	24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 628}}";
+			sepNavSelRange = "{129, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	24DE9E0F11C5FE74003F90F6 /* JpCoMountpositionMapModuleAssets.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{168, 0}";
+			sepNavVisRange = "{0, 168}";
+		};
+	};
+	24DE9E1011C5FE74003F90F6 /* JpCoMountpositionMapModuleAssets.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 628}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	AA747D9E0F9514B9006C5449 /* JpCoMountpositionMap_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 911}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 62}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* scalable-map-annotation */ = {
+		activeExec = 0;
+	};
+}

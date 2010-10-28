@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: Scalable TiMapImageAnnotationView 
+author: hamasyou
+license: Apache license
+copyright: Copyright (c) 2010 MOUNTPOSITION, INC
+
+
+# these should not be edited
+name: scalable-map-annotation
+moduleid: jp.co.mountposition.map
+guid: 8c1d2f73-575a-43a8-b39f-e8e560cb38ae
+platform: iphone
+minsdk: 1.4.0
